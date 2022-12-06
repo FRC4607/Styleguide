@@ -15,7 +15,7 @@ Checkstyle for Java</a> extension and add styleguide-frc4607.xml to the project 
     "editor.insertSpaces": true
 },
 "editor.formatOnSave": false,
-"java.checkstyle.configuration": "${workspaceFolder}/google_checks.xml",
+"java.checkstyle.configuration": "${workspaceFolder}/styleguide-frc4607.xml.xml",
 "java.checkstyle.version": "10.3",
 ```
 3. (Optional) Add the 
