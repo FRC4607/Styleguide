@@ -19,8 +19,7 @@ Checkstyle for Java</a> extension and add styleguide-frc4607.xml to the project 
 "java.checkstyle.version": "10.3",
 ```
 3. (Optional) Add the 
-<a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker">
-Code Spell Checker</a> extension.
+<a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker"> Code Spell Checker</a> extension.
 
 ## About
 This linting is based off of the <a href="https://google.github.io/styleguide/javaguide.html">Google Style Guide</a>
